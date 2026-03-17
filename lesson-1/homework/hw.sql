@@ -1,0 +1,5 @@
+--1. Define the following terms: data, database, relational database, and table.
+---DATA- data is information about someone or something such as it can be purchase trends of customers. this data then can be used to learn about market trends and make decisions.
+---DATABASE - warehouse (can store anything):is place where data is stored.It can be structured(tables → relational DB), semi-structured(JSON, XML → NoSQL) and unstructured(images, videos, logs).In a formal way of saying database is an organized collection of data that can be easily accessed, managed and updated using a database management syatem (DBMS)
+---RELATIONAL DATABASE-   RDB is a specific type of database often stores structured data in rows and tables . Tables are related using keys
+---TABLE- is collection of data organized in rows and columns inside database . In short it is a spreadsheet in database
